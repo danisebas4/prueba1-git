@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="calc_int_input">Introduce tu transaccion</string>
+</resources>
